@@ -32,7 +32,8 @@ Dados de validação:
 
 Com isso podemos usar o [TensorFlow Lite Micro](https://www.tensorflow.org/lite/microcontrollers?hl=pt-br) e o Edge Impulse para converter nosso modelo em um arquivo com formato Hexa e o EI em conjunto com o tensorFlow lite transforma isso em uma biblioteca para a IDE do Arduino.
 
-#Inferência
+# Inferência
+  
 O código usado está disponível e a saída é apresentada na serial da seguinte forma:
   ## Idle
   
